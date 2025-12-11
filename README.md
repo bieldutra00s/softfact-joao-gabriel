@@ -113,5 +113,4 @@ PUT	/stacks/{id}	Atualiza dados de uma stack.
 GET	/stacks	Retorna uma lista do catálogo completo de stacks.
 GET	/stacks/{id}	Retorna uma stack específica.
 DELETE	/stacks/{id}	Remove uma stack do sistema.
-📦 Diagrama Banco de Dados
-📦 Ver todos os endpoints via INSOMNIA em grade
+
